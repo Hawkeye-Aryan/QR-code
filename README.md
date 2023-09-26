@@ -1,1 +1,1 @@
-# QR-code
+This is a challange from codementor.
